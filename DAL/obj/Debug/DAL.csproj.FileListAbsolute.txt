@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\DAL.dll.config
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\DAL.dll
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\DAL.pdb
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\EntityFramework.dll
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\EntityFramework.xml
+C:\Users\MSI\source\repos\CBMS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.dll
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.pdb
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.Migrations.newdb.resources
+C:\Users\MSI\source\repos\CBMS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
